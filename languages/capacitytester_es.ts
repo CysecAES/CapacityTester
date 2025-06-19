@@ -252,24 +252,24 @@ Volume, filesystem.</extracomment>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="1786"/>
         <source>Cannot start test</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede iniciar la verificación</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="1788"/>
         <source>This device is not valid: %1.</source>
         <extracomment>Invalid device selected, device not found.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>El dispositivo seleccionado es inválido, dispositivo no encontrado</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="1811"/>
         <source>Disk test</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificación de disco</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="1813"/>
         <source>This program is running with limited privileges. Try restarting the program as administrator.</source>
         <extracomment>This warning is shown on Windows, so the term administrator is used. Alternative: Please start this program with elevated privileges.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>El programa está ejecutandose con privilegios limitados. Intente reiniciar el programa como administador</translation>
     </message>
     <message>
         <source>Volume invalid</source>
@@ -406,250 +406,250 @@ El dispositivo debe estar completamente vacío.</numerusform>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="67"/>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Siguiente</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="69"/>
         <source>&amp;Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="215"/>
         <source>Hello</source>
-        <translation type="unfinished"></translation>
+        <translation>Hola</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="221"/>
         <source>This program is designed to verify the reported capacity of USB storage devices. It checks if a device is reporting a fake capacity and attempts to determine the actual capacity. Please proceed with caution as this process will wipe all data on the device.</source>
         <extracomment>Introduction text for the program. Feel free to improve the wording. //Welcome to the USB Capacity Tester...</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bienvenido al Verificador de Capacidad de USB. Este programa está diseñado para verificar que la capacidad reportada de los dispositivos de almacenamiento USB. El programa verifica si la capacidad reportada del dispositivo es falsa e intenta determinar la capacidad readonly. Por favor proceda con precaución ya que este proceso borrará todos los datos dentro del dispositivo.</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="233"/>
         <source>Note: This program was started as a regular user. If this user lacks sudo permissions, the test will fail to start. It is recommended to run this program as root.</source>
         <extracomment>Warning for Linux/Unix (sudo permissions - a Linux/Unix thing).</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Este programa fué iniciado como un usuario regular. Si el usuario no cuenta con permisos de superadministrador, la verificación no podrá comenzar. Es recomendable correr este programa como usuario root o superadministrador.</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="236"/>
         <source>Note: This program was started as a regular user. If this user lacks administrative permissions, the test will fail to start. It is recommended to run this program as an administrator.</source>
         <extracomment>Warning for Windows, so almost the same test as above but &quot;Administrator&quot; instead of &quot;root&quot;/sudo.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Este programa ha sido iniciado por un usuario regular. Si el usuario no cuenta con permisos de administrador, la verificación no podrá comenzar. Se recomienda correr este programa como administrador.</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="303"/>
         <source>Select the USB storage device to test</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona un dispositivo de almacenamiento USB para verificar</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="315"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Recargar</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="318"/>
         <source>USB devices only</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo dispositivos USB</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="326"/>
         <source>Format storage device</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatear dispositivo de almacenamiento</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="334"/>
         <source>Select custom location to test</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar lugar a verificar</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="378"/>
         <location filename="../src/capacitytestergui.cpp" line="901"/>
         <source>Quick test</source>
         <extracomment>Quick test [method] means a quick test of the storage device.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Verificación rápida</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="382"/>
         <source>This test is usually sufficient to detect fake devices. It will only take a few minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usualmente, esta verificación es suficiente para detectar dispositivos falsos. Solo tomará unos minutos.</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="386"/>
         <source>Quick start</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio rápido</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="400"/>
         <source>Continue to select the type of test to run.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el tipo de verificación a realizar.</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="421"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="474"/>
         <source>Serial</source>
         <extracomment>Serial number of storage device.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Número de serie</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="486"/>
         <source>Mounted at: %1</source>
         <extracomment>Mountpoint of the device.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Montado en: %1</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="566"/>
         <location filename="../src/capacitytestergui.cpp" line="579"/>
         <source>No device selected</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha seleccionado ningún dispositivo</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="567"/>
         <location filename="../src/capacitytestergui.cpp" line="580"/>
         <source>Please select a device to test.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, seleccione un dispositivo a verificar.</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="594"/>
         <source>Invalid device</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo inválido</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="595"/>
         <source>The selected device is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>El dispositivo seleccionado no es válido.</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="612"/>
         <source>Device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo:</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="624"/>
         <source>Device path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta del dispositivo: %1</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="655"/>
         <source>Device information</source>
-        <translation type="unfinished"></translation>
+        <translation>Información del dispositivo</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="664"/>
         <source>Device name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre del dispositivo: %1</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="676"/>
         <source>Device serial: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de serie del dispositivo: %1</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="688"/>
         <source>Device speed: %1 (%2 Mbps)</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocidad del dispositivo: %1 (%2 Mbps)</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="693"/>
         <source>Device speed could not be determined.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo determinar la velocidad del dispositivo.</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="699"/>
         <source>Possible permission problem trying to determine device speed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Posible problema en los permisos al intentar determinar la velocidad del dispositivo.</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="708"/>
         <location filename="../src/capacitytestergui.cpp" line="716"/>
         <source>USB device id: %1:%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificador del dispositivo USB: %1:%2</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="724"/>
         <source>USB device information not available on this system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Información del dispositivo USB no disponible en este sistema.</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="732"/>
         <source>Filesystems</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema de archivos</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="741"/>
         <source>Number of partitions: %1</source>
         <extracomment>This device has %1 partitions.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cantidad de particiones: %1</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="758"/>
         <source>Partition</source>
-        <translation type="unfinished"></translation>
+        <translation>Particion</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="767"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="773"/>
         <source>Mountpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto de montaje</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="788"/>
         <source>Unmount</source>
-        <translation type="unfinished"></translation>
+        <translation>Desmontar</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="796"/>
         <source>Filesystem test</source>
         <extracomment>Filesystem test (old test method; not disk test, which is more thorough and recommended).</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Verificación del Sistema de Archivos</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="802"/>
         <source>Test the filesystem on this partition. A filesystem test will take hours! A disk test is recommended instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifica el Sistema de Archivos en esta partición. ¡Una verificación del Sistema de Archivos podría tardar horas! A cambio, se recomienda utilizar una verificación de disco.</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="807"/>
         <source>Mount</source>
-        <translation type="unfinished"></translation>
+        <translation>Montar</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="820"/>
         <source>Continue to select a test type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Continúa para seleccionar un tipo de verificación.</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="836"/>
         <source>Mount filesystem?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Montar Sistema de Archivos?</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="837"/>
         <source>Do you want to mount the selected filesystem?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Desea montar el Sistema de Archivos seleccionado?</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="845"/>
         <location filename="../src/capacitytestergui.cpp" line="853"/>
         <source>Mount filesystem</source>
-        <translation type="unfinished"></translation>
+        <translation>Montar Sistema de Archivos</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="846"/>
         <source>The selected filesystem has been mounted here: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>El Sistema de Archivos seleccionado ha sido montado aquí: %1</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="854"/>
         <source>The selected filesystem could not be mounted. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>El Sistema de Archivos no pudo ser montado. %1</translation>
     </message>
     <message>
         <location filename="../src/capacitytestergui.cpp" line="865"/>
